@@ -80,6 +80,17 @@ The lab includes a dedicated monitoring stack based on:
 - Alertmanager for alert routing
 - Blackbox Exporter for endpoint probing
 
+## Repository Contents
+
+- [Proxmox Overview](docs/proxmox-overview.md)
+- [Container Inventory](docs/container-inventory.md)
+- [Virtual Machines](docs/virtual-machines.md)
+- [Monitoring Stack](docs/monitoring-stack.md)
+- [Storage Layout](docs/storage-layout.md)
+- [Cloudflare Tunnel](docs/cloudflare-tunnel.md)
+- [SDN Zones](docs/sdn-zones.md)
+- [Service Access](docs/service-access.md)
+
 ## Notes
 
 Sensitive information such as credentials, tokens, private IP details, private keys and internal secrets is excluded or redacted from this repository.
